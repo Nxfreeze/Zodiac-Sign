@@ -1,0 +1,42 @@
+body{
+    background-color: antiquewhite;
+}
+.container{
+    background-color: tomato;
+    border-radius: 20px;
+    width: 500px;
+    height: 650px;
+    margin-right: auto;
+    margin-left: auto;
+    /* margin-top: 100px; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#content{
+    border-top: 1px solid white;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color: rgb(66, 22, 22);
+    font-family: Segoe Print;
+}
+#i{
+    margin-top: 30px;
+    width: 350px;
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    border: none;
+    border-bottom: 5px solid gold;
+}
+#kir{
+    background-color: burlywood;
+    width: 100px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 20px;
+    color: black;
+    cursor: pointer;
+}
